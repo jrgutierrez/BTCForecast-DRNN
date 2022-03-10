@@ -8,7 +8,7 @@ In the Data folder, you can find three notebooks, which corresponds to Data Extr
 
 In the EDA folder, you can see the Exploratory Data Analysis Notebook.
 
-And finally, in the Machine Learning folder, you can find the three Machine Learning models we used to try to aproach this problem.
+And finally, in the Machine Learning folder, you can find the three Machine Learning models I used to try to aproach this problem.
 
 Doubts, bugs and suggestions are well received.
 
